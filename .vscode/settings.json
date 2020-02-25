@@ -1,0 +1,8 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "[cue]": {
+        "editor.rulers": [80],
+    }
+}
